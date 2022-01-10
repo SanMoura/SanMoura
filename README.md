@@ -1,6 +1,6 @@
-## Heya! I'm Marlus.
+## Hi! I'm Marlus.
  
- Atualmente trabalho em uma startup com foco no desenvolvimento de backend em aplicações e APIs.<br>
+ I currently work at a startup focused on backend development in applications and APIs.<br>
  I'm always looking for new challenges and I'm always willing to learn new technologies.
  
 ### How to reach me:
@@ -27,8 +27,8 @@
   <br />
  <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=smoow&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Smoow's Github Stats">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smoow&show_icons=true&hide_border=false&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=SanMoura&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="Smoow's Github Stats">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanMoura&show_icons=true&hide_border=false&layout=compact&langs_count=8&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
 </details>
 
 <details>	
