@@ -1,7 +1,7 @@
 ## Hi! I'm Marlus.
  
- I currently work at a startup focused on backend development in applications and APIs.<br>
- I'm always looking for new challenges and I'm always willing to learn new technologies.
+ Currently I work focused on backend development.<br>
+ I'm always looking for new challenges and always willing to learn new technologies.
  
 ### How to reach me:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marlus-moura-46a790184/)
